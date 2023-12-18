@@ -210,7 +210,8 @@ keyscan_stop komutu ilede keyscan işlemi sonlandırılır.
 
 <h3>Şimdi sıra backdoor da</h3>
 
-![met9](https://github.com/Tugce41/Sizma_Testlerinde_Metasploit_Kullanimi/assets/106156890/b9bdf071-3762-4c6b-a225-d1e70d8f752a)
+
+![met9](https://github.com/Tugce41/Sizma_Testlerinde_Metasploit_Kullanimi/assets/106156890/0da144fa-953e-4527-91de-d69871c29d95)
 
 
 zararli.exe olarak gözükmektedir.
