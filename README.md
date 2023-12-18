@@ -132,10 +132,6 @@ nmap -sS -O -sV 192.168.136.129
 ```
 
 
-![meta4](https://github.com/Tugce41/Sizma_Testlerinde_Metasploit_Kullanimi/assets/106156890/58a4ab47-e76e-42b9-8225-6970d1db584b)
-
-
-kodu görmek amacıyla kırptım.
 
 
 <h2>ancak unutmamalıkı bu servislerin hepsi doğru diyemeyiz nmap taradıgı verilşerde tahmin yapar, fakat bu tahminin yanlış olduğu anlamına gelmez. Sızma testinde her şey denenmelidir</h2>
